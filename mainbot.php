@@ -32,7 +32,6 @@ if (!is_null($events['events']))
       //
       //
 
-
       $messages = [
       'type' => 'text',
       'text' => 'ด้วยความยินดี'];
